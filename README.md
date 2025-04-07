@@ -3,7 +3,7 @@
 
 Link: [https://niskarshpandey.github.io/Weather/]
 
-Weather App is a simple web application that provides real‑time weather information for any city. Built with HTML, CSS, and JavaScript, it fetches data from the OpenWeatherMap API and displays current conditions along with a 5‑day forecast.
+Weather App is a simple web application that provides real‑time weather information for any city. Built with HTML, CSS, and JavaScript, it fetches data from the OpenWeatherMap API and displays current forecast.
 
 ## Features
 
